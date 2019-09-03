@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Tveitatest
+description: Dette er en tveitatest av netlify og marp
 theme: uncover
 paginate: true
 _paginate: false
@@ -9,9 +9,9 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Dette er en liten test altså
 
-Hosting Marp slide deck on the web
+Nå skal jeg prøve meg på noe kult
 
 https://github.com/yhatt/marp-cli-example
 
