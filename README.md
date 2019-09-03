@@ -1,6 +1,6 @@
 # Marp CLI example
 
-**The good starter example for using [Marp] via [Marp CLI].**
+**The good starter example for using [Marp] via [Marp CLI].** Hilsen dan
 
 - Write your slide deck by [Marp] Markdown.
 - Manage the content of slides via Git. (Using [GitPitch](https://gitpitch.com/) style `PITCHME.md`)
